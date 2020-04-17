@@ -1,0 +1,10 @@
+C:\Users\k85i9\source\repos\getpi\getpi\bin\Debug\getpi.exe.config
+C:\Users\k85i9\source\repos\getpi\getpi\bin\Debug\getpi.exe
+C:\Users\k85i9\source\repos\getpi\getpi\bin\Debug\getpi.pdb
+C:\Users\k85i9\source\repos\getpi\getpi\obj\Debug\getpi.csprojAssemblyReference.cache
+C:\Users\k85i9\source\repos\getpi\getpi\obj\Debug\getpi.Form1.resources
+C:\Users\k85i9\source\repos\getpi\getpi\obj\Debug\getpi.Properties.Resources.resources
+C:\Users\k85i9\source\repos\getpi\getpi\obj\Debug\getpi.csproj.GenerateResource.cache
+C:\Users\k85i9\source\repos\getpi\getpi\obj\Debug\getpi.csproj.CoreCompileInputs.cache
+C:\Users\k85i9\source\repos\getpi\getpi\obj\Debug\getpi.exe
+C:\Users\k85i9\source\repos\getpi\getpi\obj\Debug\getpi.pdb
